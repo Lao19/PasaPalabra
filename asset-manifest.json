@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lao19/PasaPalabra/static/css/main.21ba6ff6.css",
+    "main.js": "/Lao19/PasaPalabra/static/js/main.55e5bfc6.js",
+    "static/js/453.faf4467d.chunk.js": "/Lao19/PasaPalabra/static/js/453.faf4467d.chunk.js",
+    "index.html": "/Lao19/PasaPalabra/index.html",
+    "main.21ba6ff6.css.map": "/Lao19/PasaPalabra/static/css/main.21ba6ff6.css.map",
+    "main.55e5bfc6.js.map": "/Lao19/PasaPalabra/static/js/main.55e5bfc6.js.map",
+    "453.faf4467d.chunk.js.map": "/Lao19/PasaPalabra/static/js/453.faf4467d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ba6ff6.css",
+    "static/js/main.55e5bfc6.js"
+  ]
+}
