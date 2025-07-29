@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PasaPalabra/static/css/main.21ba6ff6.css",
-    "main.js": "/PasaPalabra/static/js/main.30e114b4.js",
+    "main.css": "/PasaPalabra/static/css/main.e25aeec8.css",
+    "main.js": "/PasaPalabra/static/js/main.dfdc68ba.js",
     "static/js/453.faf4467d.chunk.js": "/PasaPalabra/static/js/453.faf4467d.chunk.js",
     "index.html": "/PasaPalabra/index.html",
-    "main.21ba6ff6.css.map": "/PasaPalabra/static/css/main.21ba6ff6.css.map",
-    "main.30e114b4.js.map": "/PasaPalabra/static/js/main.30e114b4.js.map",
+    "main.e25aeec8.css.map": "/PasaPalabra/static/css/main.e25aeec8.css.map",
+    "main.dfdc68ba.js.map": "/PasaPalabra/static/js/main.dfdc68ba.js.map",
     "453.faf4467d.chunk.js.map": "/PasaPalabra/static/js/453.faf4467d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21ba6ff6.css",
-    "static/js/main.30e114b4.js"
+    "static/css/main.e25aeec8.css",
+    "static/js/main.dfdc68ba.js"
   ]
 }
